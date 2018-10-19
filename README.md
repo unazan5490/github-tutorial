@@ -28,10 +28,15 @@ Commiting your file is the part where you take the snapshot, or the picture in t
 
 ---
 ## Initial Setup
+### Making a github account
+
 _if you already have a github account, skip this step_
-1. To create a github account, go to the website, or click [**_here_**](https://github.com/join?source=header-home)
-2. you should see this  
+1. To create a github account, go to the website and click sign up, or click [**_here_**](https://github.com/join?source=header-home)  
+you should see this:  
 ![alt text](screenshot1.png)
+2. follow the steps
+3. Congrats you have an account!
+### Setting up an SSH key
 
 
 ---
@@ -55,12 +60,14 @@ _if you already have a github account, skip this step_
 ```
 username:~/workspace $ git init
 ```
-, youll be able to tell because it looks like this:
-```git
+, youll be able to tell because now it looks like this:
+```bash
 username:~/workspace (master) $ 
 ```
+notice that you are on the master branch, you shouldn't be,
 but, dont worry, All you have to do is type this command :  
 
 ```bash 
 rm-rf .git
 ```
+and now you're back to normal.
