@@ -28,7 +28,10 @@ Commiting your file is the part where you take the snapshot, or the picture in t
 
 ---
 ## Initial Setup
-
+_if you already have a github account, skip this step_
+1. To create a github account, go to the website, or click [**_here_**](https://github.com/join?source=header-home)
+2. you should see this  
+![alt text](screenshot1.png)
 
 
 ---
@@ -48,5 +51,16 @@ Commiting your file is the part where you take the snapshot, or the picture in t
 
 ---
 ## Error Handling
-*If you accidentally initialized git into your workspace, dont worry, All you have to do is type this command :  
-`rm-rf .git`
+*If you accidentally initialized git into your workspace:
+```
+username:~/workspace $ git init
+```
+, youll be able to tell because it looks like this:
+```git
+username:~/workspace (master) $ 
+```
+but, dont worry, All you have to do is type this command :  
+
+```bash 
+rm-rf .git
+```
