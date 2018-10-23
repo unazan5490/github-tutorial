@@ -84,9 +84,6 @@ and to see which files are staged for the commit (in green)
 `git commit -m "message"`> Takes a ‘snapshot’ of the files on the stage.
 ---
 ## Rolling Back Changes
-
-
-
 ---
 ## Error Handling
 *If you accidentally initialized git into your workspace:
