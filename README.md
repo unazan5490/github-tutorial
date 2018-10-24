@@ -15,7 +15,7 @@ _"git is like a family photographer, it shows change over time"_ - Mr. Mueller
 
 
 Intitializing git: you only do it once in the beginning, we call an initialized git a repository  
-Adding files to the staging area: getting th3e files ready to be committed, but not actually committing them 
+Adding files to the staging area: getting the files ready to be committed, but not actually committing them 
 Commiting your file is the part where you take the snapshot and save the code
 **NEVER EVER** type Git init into your workspace*
 
