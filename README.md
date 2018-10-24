@@ -5,7 +5,7 @@ _by Unaza Noor_
 ---
 ## Git vs. GitHub
 #### Git
-* Git is version control, meaning it keeps what we call "snapshots" of code
+* Git is version control, meaning it keeps "snapshots" of code
    * it keeps copies of your old code
 * Git does not rquire github
 * git runs in the commandline
